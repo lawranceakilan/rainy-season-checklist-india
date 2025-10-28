@@ -55,6 +55,7 @@
 ## 6. Electrical & Equipment Safety
 - 🔌 Unplug sensitive electronics during lightning or heavy rains.
 - 🕯️ Charge all rechargeable electronics (laptop, Emergency lamp, mobile, powerbank etc..)
+  
 ---
 
 ## 7. After the Rain
