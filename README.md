@@ -1,6 +1,6 @@
 ## ⚠️ *If you're in a flood-prone area and have an infant or elderly at home, it’s safer to stay with relatives or at your native place until the cyclone passes.*
 
----
+
 
 ## 1. Stay Informed
 - 📞 Keep local emergency contact numbers handy (Community helpline, local police, electricity board, hospitals).  
@@ -54,8 +54,6 @@
 - 🚑 Know **nearby clinics, pharmacies, and hospitals** that remain accessible during floods.  
 - 👣 Be cautious while walking in wet corridors or stairways — floors can be slippery.  
 
----
-
 ### 🧍‍♂️ **General Medicines**
 - 🤒 Paracetamol (for fever/headache)  
 - 😷 Cough syrup / throat lozenges  
@@ -65,8 +63,6 @@
 - 🧴 Antiseptic liquid (e.g., Dettol, Savlon)  
 - 🩹 Band-aids and sterile gauze pads  
 - 🌡️ Thermometer  
-
----
 
 ### 👶 **For Kids**
 - 🍼 Paracetamol syrup/drops (as per age)  
@@ -78,15 +74,11 @@
 - 🍎 Vitamin or immunity syrup (if prescribed)  
 - 💨 Inhaler / nebulizer (if prescribed)  
 
----
-
 ### 👵 **For Elderly or Chronic Patients**
 - 💊 Regular prescription medicines (stock 2–3 weeks’ supply)  
 - 🩸 Blood pressure / sugar monitoring equipment  
 - 🦵 Pain or arthritis medication  
 - ☎️ Emergency contact numbers for local pharmacy and doctor  
-
----
 
 ### 🧴 **Additional Essentials**
 - 🧼 Hand sanitizers and disinfectant wipes  
