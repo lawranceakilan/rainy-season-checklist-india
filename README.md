@@ -1,4 +1,4 @@
-## ⚠️ **If you're in flood prone area and you have a infant or elderly in home, better to stay in safer relative or native until cyclone passes**
+## ⚠️ *If you're in flood prone area and you have a infant or elderly in home, better to stay in safer relative or native until cyclone passes*
 
 ## 1. Stay Informed
 - Keep local emergency contact numbers handy (Community helpline, local police, electricity board, hospitals).
