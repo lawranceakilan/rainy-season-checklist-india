@@ -7,7 +7,6 @@
 - 💬 Join community WhatsApp groups to stay updated on what's happening around.  
 - 🌧️ Follow trusted sources for rain and weather updates.  
 
----
 
 ## 2. Property & Drainage
 - 🧹 Ensure all drains, gutters, and stormwater outlets around your property are **clear of leaves, debris, or construction material**.  
@@ -17,7 +16,6 @@
 - 🚪 Check windows are closed, especially in unused rooms.  
 - 📁 Safeguard important documents and valuables in waterproof covers.  
 
----
 
 ## 3. Home Readiness & Supplies
 
@@ -40,14 +38,12 @@
 - 🍳 PNG users — keep a **small backup stove** (electric or 5kg refill cylinder).  
 - ⚡ Ensure **inverters/UPS** are functional and fully charged.  
 
----
 
 ## 4. Vehicle Preparedness
 - 🚗 Park vehicles only in **safe, elevated areas**.  
 - ⛽ Maintain adequate **fuel levels** in all vehicles.  
 - 📄 Ensure **insurance is active** and covers flood damage.  
 
----
 
 ## 5. Medical & Safety
 - 🏥 Complete any **routine doctor visits or vaccinations** before heavy rains.  
@@ -85,19 +81,16 @@
 - ✂️ Cotton, scissors, medical tape  
 - 🔦 Flashlight kept near medical box  
 
----
 
 ## 6. Electrical & Equipment Safety
 - 🔌 Unplug sensitive electronics during lightning or heavy rains.  
 - 🔋 Charge all rechargeable electronics (laptop, emergency lamps, mobile, power banks, etc.).  
 
----
 
 ## 7. After the Rain
 - 🚫 Check for **water stagnation and mosquito breeding areas**.  
 - 🧽 Clean and disinfect **water storage and floors** if flooding occurred.  
 - ⚠️ Watch for **loose electrical wires, slippery patches, or fallen branches**.  
 
----
 
 *📝 Note: Content was partially generated using AI.*
