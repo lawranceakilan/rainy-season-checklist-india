@@ -24,8 +24,9 @@
 - 🥛 Stock up long shelf milk in refrigerator.  
 - 🥛 Stock up instant or frozen foods for worst case.
 - 💊 Ensure an adequate supply of **baby food, pet food, and essential medication**.  
-- 🕯️ Ready **candles, torches and emergency lamps**.
-- 🦟 Keep **mosquito repellents, coils, or creams** handy.  
+- 🕯️ Ready **candles, matchbox, torches and emergency lamps**.
+- 🦟 Keep **mosquito repellents, coils, or creams** handy.
+- 💰 Keep some cash inhand (Useful when network goes down)
 
 ### b. Drinking & Utility Water
 - 💧 If you depend on water cans — keep **1–3 extra cans** as backup.  
@@ -49,8 +50,44 @@
 ## 5. Medical & Safety
 - 🏥 Complete any **routine doctor visits or vaccinations** before the rains intensify.  
 - 🚑 Keep track of **nearby clinics, pharmacies, and hospitals** that remain accessible during heavy rain.  
-- 💉 Maintain a **first-aid kit** with essentials like antiseptic, painkillers, and bandages.  
 - 👣 Be cautious while walking in wet corridors, lobbies, or stairways — floors can be slippery.
+
+### 🧍‍♂️ **General Medicines**
+- 🤒 Paracetamol (for fever/headache)  
+- 😷 Cough syrup / throat lozenges  
+- 🤢 Antacids (for acidity/indigestion)  
+- 🧂 Oral Rehydration Salts (ORS) packets  
+- 💪 Pain relief ointment / balm (e.g., Volini, Moov)  
+- 🧴 Antiseptic liquid (e.g., Dettol, Savlon)  
+- 🩹 Band-aids and sterile gauze pads  
+- 🌡️ Thermometer
+
+---
+
+### 👶 **For Kids**
+- 🍼 Paracetamol syrup/drops (as per age)  
+- 🍯 Cough syrup 
+- 💧 Nasal saline drops/spray  
+- 🧃 Pediatric electrolyte solution  
+- 🦟 Mosquito repellent patches/creams safe for kids  
+- 👶 Diaper rash cream / baby wipes  
+- 🍎 Vitamin or immunity syrup (if prescribed)  
+- 💨 Inhaler / nebulizer (if prescribed)  
+
+---
+
+### 👵 **For Elderly or Chronic Patients**
+- 💊 Regular prescription medicines (stock 2–3 weeks’ supply)  
+- 🩸 Blood pressure / sugar monitoring equipment  
+- 🦵 Pain or arthritis medication  
+- ☎️ Emergency contact numbers for local pharmacy and doctor  
+
+---
+
+### 🧴 **Additional Essentials**
+- 🧼 Hand sanitizers and disinfectant wipes  
+- ✂️ Cotton, scissors, medical tape  
+- 🔦 Flashlight kept near medical box  
 
 ---
 
