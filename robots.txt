@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lawranceakilan.github.io/rainy-season-checklist-india/sitemap.xml
