@@ -8,7 +8,7 @@
 ---
 
 ## 2. Property & Drainage
-- [ ] Ensure all drains, gutters, and stormwater outlets around your property are **clear of leaves, debris, or construction material**.  
+- ✅ Ensure all drains, gutters, and stormwater outlets around your property are **clear of leaves, debris, or construction material**.  
 - ✅ Check that terrace outlets and balcony drains are not blocked.  
 - ✅ Cover electrical junction boxes and outdoor sockets from water exposure.
 - ✅ Fix broken/seeping windows
@@ -34,7 +34,7 @@
 
 ### c. Cooking & Power
 - 🔥 Ensure **both LPG cylinders** are filled.  
-- 🔌 PNG users — keep a **small backup stove** (electric or 5kg refill cylinder).  
+- 🔥 PNG users — keep a **small backup stove** (electric or 5kg refill cylinder).  
 - ⚡ Check **inverters/UPS** are functional and charged.
 
 ---
