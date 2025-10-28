@@ -1,4 +1,4 @@
-## ⚠️ *If you're in flood prone area and you have a infant or elderly in home, better to stay in safer relative or native until cyclone passes*
+## ⚠️ *If you're in flood prone area and have a infant or elderly at home, better to stay in safer relative or native place until cyclone passes*
 
 ---
 
