@@ -1,5 +1,3 @@
----
-
 ## 1. Stay Informed
 - Keep local emergency contact numbers handy (Community helpline, local police, electricity board, hospitals).
 - Join community whatsapp group to stay updated on what's happening around.
